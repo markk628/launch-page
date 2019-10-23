@@ -1,0 +1,22 @@
+.navbar {
+    padding: 1rem;
+}
+
+.btn-primary:hover {
+    background-color: blue;
+    color: white
+}
+
+.h_img {
+    background-image: url('tuan-nguyen-9lhg59wHMIA-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center
+}
+
+body {
+    background-color:grey
+}
+
+
+
